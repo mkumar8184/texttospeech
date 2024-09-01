@@ -36,6 +36,7 @@ copy paste below code in your web api controller
      return speechBytes;
 
  }
+![image](https://github.com/user-attachments/assets/8074bdd2-2566-41d2-b4cd-536d3cbdf7d3)
 
  ## Alternative approaches -
  1. use azure cognitive services
