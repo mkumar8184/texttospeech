@@ -1,4 +1,4 @@
-# texttospeech
+# text to speech in .Net 6.0
 # Free text to speech in .net core
 # Install nuget package :system.speech depends on .net version
  Even though its used in window app but you can use in your .net core app as well.
