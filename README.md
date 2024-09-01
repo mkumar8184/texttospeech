@@ -36,3 +36,7 @@ copy paste below code in your web api controller
      return speechBytes;
 
  }
+
+ ## Alternative approaches -
+ 1. use azure cognitive services
+ 2. Elevenlab api
