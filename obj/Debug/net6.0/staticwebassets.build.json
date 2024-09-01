@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UExNP5osBwUdHB5Kaok+Cip35v1bcpO/rAWf2xhZn0w=",
+  "Source": "texttospeechnetcore",
+  "BasePath": "_content/texttospeechnetcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
